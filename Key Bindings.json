@@ -1,0 +1,4 @@
+[
+	{ "keys": ["Right"], "command": "switch_panes", "args": {"pane_index": 1} },
+	{ "keys": ["Left"], "command": "switch_panes", "args": {"pane_index": 0} }
+]
